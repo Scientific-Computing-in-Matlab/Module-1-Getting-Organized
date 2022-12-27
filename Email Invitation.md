@@ -19,5 +19,5 @@ What you should do **now**:
 This will give an overview of Git and GitHub, essential tools for software development, which we will use throughout this course. Once you're familiar with Git and GitHub, you should install one of the free packages for git on your computer. There are several options:  GitKraken for any OS, GitExtensions for Windows, or GitDesktop for Windows and macOS.
     2. [Module 0 - Matlab Basics](https://classroom.github.com/a/fSPQOOPw)
 This course is aimed at students with some experience with Matlab. To assess your skill level, or to brush up your skills, you should go through the Matlab Basics module **before the course starts**.
-    3. [Module 1 - Getting Organized](https://classroom.github.com/a/6Ztdv9j)
+    3. [Module 1 - Getting Organized](https://classroom.github.com/a/6Ztdv9j_)
 This is the module with material for the first class. As this course uses the flipped class format, you should work on this material **before the first class**.
