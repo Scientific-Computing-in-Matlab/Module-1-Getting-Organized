@@ -48,5 +48,6 @@ In the first class, you then have the opportunity to ask questions or raise issu
 ## To Do List
 1. Read the Syllabus and the Schedule
 2. Review Matlab Basics 
+3. Introduce yourself on the [Discussion Forum](https://github.com/orgs/Scientific-Computing-in-Matlab/teams/students-2023)
 
 
