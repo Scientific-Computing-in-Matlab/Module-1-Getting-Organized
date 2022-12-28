@@ -27,6 +27,6 @@ Learn all about Git and GitHub by completing [this assignment](https://classroom
 ## To Do List
 
 1. Read the [Syllabus](./docs/syllabus.docx) and the [Schedule](./docs/schedule.docx)
-2. Review Matlab Basics
+2. Review Matlab Basics in [this assignment](https://classroom.github.com/a/fSPQOOPw)
 3. Introduce yourself on the [Discussion Forum](https://github.com/orgs/Scientific-Computing-in-Matlab/teams/students-2023/discussions/1)
 4.  
