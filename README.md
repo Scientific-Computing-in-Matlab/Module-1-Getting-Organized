@@ -25,7 +25,7 @@ Good programming practices - resulting in fewer bugs, more reusable and more rel
 
 ## To Do List
 
-1. Read the [Syllabus](./docs/syllabus.docx) and the [Schedule](./docs/schedule.docx)
+1. Read the [Syllabus](./docs/syllabus.docx?raw=true) and the [Schedule](./docs/schedule.docx?raw=true)
 2. Get familiar with [Git and Github](https://classroom.github.com/a/tOy8ASUu).
 3. Review Matlab Basics in [this assignment](https://classroom.github.com/a/fSPQOOPw)
 4. Introduce yourself on the [Discussion Forum](https://github.com/orgs/Scientific-Computing-in-Matlab/teams/students-2023/discussions/1)
